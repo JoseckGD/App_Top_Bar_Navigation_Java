@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fistFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Primero"
+        />
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/baseline_ondemand_video_24"
+        android:title="Segundo"
+        />
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/baseline_groups_24"
+        android:title="Tercero"
+        />
+
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon= "@drawable/baseline_videogame_asset_24"
+        android:title="Cuarto"
+        />
+
+    <item
+        android:id="@+id/fifthFragment"
+        android:icon="@drawable/baseline_notifications_24"
+        android:title="Quinto"
+        />
+
+</menu>
